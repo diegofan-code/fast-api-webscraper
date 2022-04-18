@@ -1,7 +1,7 @@
-# **Fast-api-webscraper with Heroko**
+# **Fast-api-webscraper with Heroku**
 
 
-This is a simple webscraper using FastApi deploy with Heroko
+This is a simple webscraper using FastApi deploy with Heroku
 
 
 ## **Install dependences**
